@@ -11,7 +11,7 @@ Además de esto, es posible predecir con algunas de las variables el nivel de ob
 
 ## USO DE LA HERRAMIENTA
 
-SE DEBE CLONAR LA SIGUIENTE CARPETA EN EL PC: https://github.com/fchavista/DESARROLLO-DE-PROYECTOS-DE-INTELIGENCIA-ARTIFICIAL
+SE DEBE CLONAR LA SIGUIENTE CARPETA EN EL PC: https://https://github.com/fchavista/PROYECTO_FINAL
 
 Se generaron los siguientes archivos en python con el fin de cumplir con cada uno de los pasos requeridos para la aplicación:
 
